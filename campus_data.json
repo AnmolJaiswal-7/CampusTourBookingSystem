@@ -1,0 +1,28 @@
+{
+    "visitors": [
+        {
+            "id": "V101",
+            "name": "amrudg",
+            "email": "aisuhfdih@11.com",
+            "phone": "0000000000"
+        }
+    ],
+    "guides": [
+        {
+            "id": "G101",
+            "name": "akash",
+            "phone": "0000000000"
+        }
+    ],
+    "slots": [
+        {
+            "id": "T101",
+            "date": "13-12-2026",
+            "time": "13:00",
+            "guide_id": "G101",
+            "capacity": 33,
+            "booked": 0
+        }
+    ],
+    "bookings": []
+}
